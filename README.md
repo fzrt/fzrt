@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fabrizio Zarate, i am 24 years old and im from Argentina
+- 👋 Hi, I’m Fabrizio Zarate, i am 27 years old and im from Argentina
 - 👀 I’m interested in Computers, web development and formula 1 🏎
 - 🌱 I’m currently learning Python (just starting, i want to become a great backend developer in the near future)
 - 📫 How to reach me? You can contact me via Twitter (https://twitter.com/FabbriZarate) or in Discord (Fabrizio Zarate#6477)
